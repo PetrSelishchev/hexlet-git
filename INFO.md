@@ -1,3 +1,1 @@
-new line
-new line
-test
+new text
